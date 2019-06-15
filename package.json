@@ -1,6 +1,7 @@
 {
   "name": "vue-antd-pro",
   "version": "0.1.0",
+  "description": "vue-antd-pro Ant Design Vue中后台管理方案",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
