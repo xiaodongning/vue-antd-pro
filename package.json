@@ -20,7 +20,8 @@
     "vue": "^2.6.10",
     "vue-echarts": "^4.0.3",
     "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "lodash": ">=4.17.13"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
